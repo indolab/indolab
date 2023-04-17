@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @suyash mishra
+- 👀 I’m interested in developing security tools && cloud workspace
+- 🌱 I’m currently learning process (os) management and handling 
 - 📫 How to reach me ...suyashm480@gmail.com
 
 <!---

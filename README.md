@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @suyash mishra
-- 👀 I’m interested in developing security tools && cloud workspace
-- 🌱 I’m currently learning process (os) management and handling 
+- 👀 I’m interested in Blockchain ND Cryptography
+- 🌱 I’m currently working on PumpkinX : Blockchain Protocols {Open for ideas} 
 - 📫 How to reach me ...suyashm480@gmail.com
 
 <!---
